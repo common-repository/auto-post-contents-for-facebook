@@ -1,0 +1,172 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Facebook Auto Post\n"
+"POT-Creation-Date: 2019-02-09 22:18-0500\n"
+"PO-Revision-Date: 2019-02-14 10:15-0500\n"
+"Language-Team: Raef Ghribi ghribi.raef@yahoo.com\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __\n"
+"Last-Translator: \n"
+"Language: zh\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: raefghribi-auto-post.php:67
+msgid "Every 3 Minutes"
+msgstr "每3分钟一次"
+
+#: raefghribi-auto-post.php:114
+msgid "Please add the APP ID from your Facebook app."
+msgstr "请从您的Facebook应用添加APP ID。"
+
+#: raefghribi-auto-post.php:122
+msgid "Please add the APP SECRET from your Facebook app."
+msgstr "请从您的Facebook应用添加APP SECRET。"
+
+#: raefghribi-auto-post.php:128
+msgid ""
+"Enter this URI in Valid OAuth redirect field of your Facebook app and save "
+"your changes."
+msgstr "在Facebook应用的有效OAuth重定向字段中输入此URI并保存更改。"
+
+#: raefghribi-auto-post.php:564
+msgid "Enter your time zone."
+msgstr "输入您的时区。"
+
+#: raefghribi-auto-post.php:680
+msgid "TITLE"
+msgstr "标题"
+
+#: raefghribi-auto-post.php:681
+msgid "LINK"
+msgstr "链接"
+
+#: raefghribi-auto-post.php:708 raefghribi-auto-post.php:758
+msgid "PAGE NAME"
+msgstr "PAGE NAME"
+
+#: raefghribi-auto-post.php:709
+msgid "PAGE ID"
+msgstr "页面ID"
+
+#: raefghribi-auto-post.php:759
+msgid "LATEST/RANDOM"
+msgstr "最新/ RANDOM"
+
+#: raefghribi-auto-post.php:761
+msgid "TIME"
+msgstr "时间"
+
+#: raefghribi-auto-post.php:762
+msgid "NUMBERS"
+msgstr "NUMBERS"
+
+#: raefghribi-auto-post.php:819
+msgid "Get Facebook Pages"
+msgstr "获取Facebook页面"
+
+#: raefghribi-auto-post.php:848
+msgid "Create share programs"
+msgstr "创建共享计划"
+
+#: raefghribi-auto-post.php:849
+msgid ""
+"Each program can have it's own options for sharing posts on your Facebook "
+"page"
+msgstr "每个程序都有自己的选项，可以在Facebook页面上分享帖子"
+
+#: raefghribi-auto-post.php:854
+msgid "Facebook Page :"
+msgstr "Facebook页面："
+
+#: raefghribi-auto-post.php:854
+msgid "Choose the FB page you want to use for this program"
+msgstr "选择要用于此程序的FB页面"
+
+#: raefghribi-auto-post.php:857
+msgid "Latest/Random :"
+msgstr "最新/随机："
+
+#: raefghribi-auto-post.php:857
+msgid "Share your posts randomisly or only the latest posts for this program"
+msgstr "随机分享您的帖子或仅分享此计划的最新帖子"
+
+#: raefghribi-auto-post.php:862
+msgid "Time schedule : "
+msgstr "时间表 ："
+
+#: raefghribi-auto-post.php:862
+msgid "Choose the time you want to use to share random posts"
+msgstr "选择您要用于分享随机帖子的时间"
+
+#: raefghribi-auto-post.php:865
+msgid "Category : "
+msgstr "分类："
+
+#: raefghribi-auto-post.php:865
+msgid "Choose the category posts for this program"
+msgstr "选择此计划的类别帖子"
+
+#: raefghribi-auto-post.php:867
+msgid "All"
+msgstr "所有"
+
+#: raefghribi-auto-post.php:882
+msgid "Number of posts : "
+msgstr "帖子数量："
+
+#: raefghribi-auto-post.php:882
+msgid "Choose number of posts to share for this program"
+msgstr "选择要为此计划分享的帖子数"
+
+#: raefghribi-auto-post.php:889
+msgid "Auto post programs list"
+msgstr "自动发布节目列表"
+
+#: raefghribi-auto-post.php:890
+msgid ""
+"This is the list of your auto-sharing programs posts in your Facebook pages :"
+msgstr "这是您的Facebook页面中的自动共享程序列表列表："
+
+#: raefghribi-auto-post.php:896
+msgid "Facebook pages"
+msgstr "Facebook页面"
+
+#: raefghribi-auto-post.php:898
+msgid "Liste pages from your Facebook account : "
+msgstr "从您的Facebook帐户收听的页面："
+
+#: raefghribi-auto-post.php:900
+msgid ""
+"The ID of the application has changed, you must regenerate the list of "
+"Facebook pages"
+msgstr "应用程序的ID已更改，您必须重新生成Facebook页面列表"
+
+#: raefghribi-auto-post.php:910
+msgid "Facebook App Settings"
+msgstr "Facebook应用程序设置"
+
+#: raefghribi-auto-post.php:911
+msgid "Enter your Facebook application settings :"
+msgstr "输入您的Facebook应用程序设置："
+
+#: raefghribi-auto-post.php:924
+msgid "Do you realy want to clear the logs?"
+msgstr "你真的想清除日志吗？"
+
+#: raefghribi-auto-post.php:924
+msgid "Clear logs"
+msgstr "清除日志"
+
+#: raefghribi-auto-post.php:930
+msgid "Time Zone setting"
+msgstr "时区设置"
+
+#: raefghribi-auto-post.php:931
+msgid "Enter your time zone here :"
+msgstr "在此处输入您的时区："

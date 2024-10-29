@@ -1,0 +1,146 @@
+/* Style buttons */
+.btn-fb {
+    background-color: #3c8dbc;
+    border-color: #367fa9;
+    color: white; /* White text */
+    padding: 12px 16px; /* Some padding */
+    font-size: 16px; /* Set a font size */
+    cursor: pointer; /* Mouse pointer on hover */
+}
+
+/* Darker background on mouse-over */
+.btn-fb:hover {
+    background-color: #367fa9;
+}
+
+.btn-red {
+    color: #fff;
+    background-color: #dd4b39;
+    border-color: #d73925;
+    cursor: pointer; /* Mouse pointer on hover */
+}
+
+/* Darker background on mouse-over */
+.btn-red:hover {
+    background-color: #d73925;
+}
+
+.btn-blue {
+    color: #fff;
+    background-color: #3c8dbc;
+    border-color: #367fa9;
+    cursor: pointer; /* Mouse pointer on hover */
+}
+
+/* Darker background on mouse-over */
+.btn-blue:hover {
+    background-color: #367fa9;
+}
+
+.btn-green {
+    color: #fff;
+    background-color: #00a65a;
+    border-color: #008d4c;
+    cursor: pointer; /* Mouse pointer on hover */
+}
+
+/* Darker background on mouse-over */
+.btn-green:hover {
+    background-color: #008d4c;
+}
+
+.btn-yellow {
+    color: #fff;
+    background-color: #f39c12;
+    border-color: #e08e0b;
+    cursor: pointer; /* Mouse pointer on hover */
+}
+
+/* Darker background on mouse-over */
+.btn-yellow:hover {
+    background-color: #e08e0b;
+}
+
+
+.btn {
+	
+	display: inline-block;
+    padding: 6px 12px;
+    margin: 5px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 4px;
+		
+}
+
+td {padding:8px;}
+
+body {background: #fff;}	
+
+.fb-auto-class {
+    border: 1px #ccc solid;
+    padding: 0 10px 5px;margin: 10px 20px 10px 0;
+    font-family: verdana, sans-serif;
+}
+
+.tab-class {
+border: 1px #ccc solid;	
+padding: 0 10px 5px;
+background-color: #fdfdfd;
+margin: 10px 20px 10px 0;
+}
+
+.divider {
+    height: 0.05rem;
+    margin: 0.4rem 0;
+    border-bottom: 0.05rem solid #e7e9ed;
+}
+
+.formtab th {
+    vertical-align: top;
+    text-align: left;
+    padding: 20px 10px 10px 0;
+    width: 200px;
+    line-height: 1.3;
+}
+
+.formtab, .formtab td, .formtab td p, .formtab th {font-size: 14px;}
+
+.formtab {
+border-collapse: collapse;
+margin-top: .5em;
+width: 100%;
+clear: both;
+}
+
+.formtab p, .formtab td p {
+    font-size: 11.3px;
+    line-height: 1.5;
+    margin: 1em 0;	
+    font-weight: 200;
+}
+
+.form-table tr {
+    height: 0.05rem;
+    margin: 0.4rem 0;
+    border-bottom: 0.05rem solid #e7e9ed;
+}
+
+#adminmenu .wp-menu-image img {
+    padding: 5px 0 0;
+    opacity: .6;
+    filter: alpha(opacity=60);
+}

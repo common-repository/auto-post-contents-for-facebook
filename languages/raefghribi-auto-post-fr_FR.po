@@ -1,0 +1,165 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Facebook Auto Post\n"
+"POT-Creation-Date: 2019-02-09 22:18-0500\n"
+"PO-Revision-Date: 2019-02-09 22:41-0500\n"
+"Last-Translator: \n"
+"Language-Team: Raef Ghribi ghribi.raef@yahoo.com\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: raefghribi-auto-post.php:67
+msgid "Every 3 Minutes"
+msgstr "Chaque 3 Minutes"
+
+#: raefghribi-auto-post.php:114
+msgid "Please add the APP ID from your Facebook app."
+msgstr "Veuillez ajouter l'ID de votre application Facebook."
+
+#: raefghribi-auto-post.php:122
+msgid "Please add the APP SECRET from your Facebook app."
+msgstr "Veuillez ajouter la Clé secrète de l'application Facebook."
+
+#: raefghribi-auto-post.php:128
+msgid "Enter this URI in Valid OAuth redirect field of your Facebook app and save your changes."
+msgstr "Entrez cet URI dans le champ \"URI de redirection OAuth valides\" de votre application Facebook ."
+
+#: raefghribi-auto-post.php:564
+msgid "Enter your time zone."
+msgstr "Entrez votre fuseau horaire."
+
+#: raefghribi-auto-post.php:680
+msgid "TITLE"
+msgstr "TITRE"
+
+#: raefghribi-auto-post.php:681
+msgid "LINK"
+msgstr "LIEN"
+
+#: raefghribi-auto-post.php:708 raefghribi-auto-post.php:758
+msgid "PAGE NAME"
+msgstr "NOM PAGE"
+
+#: raefghribi-auto-post.php:709
+msgid "PAGE ID"
+msgstr "ID PAGE"
+
+#: raefghribi-auto-post.php:759
+msgid "LATEST/RANDOM"
+msgstr "DERNIERS/ALLEATOIRE"
+
+#: raefghribi-auto-post.php:761
+msgid "TIME"
+msgstr "HEURE"
+
+#: raefghribi-auto-post.php:762
+msgid "NUMBERS"
+msgstr "NOMBRE"
+
+#: raefghribi-auto-post.php:819
+msgid "Get Facebook Pages"
+msgstr "Récupérer Pages Facebook"
+
+#: raefghribi-auto-post.php:848
+msgid "Create share programs"
+msgstr "Créer Programmes de Partage"
+
+#: raefghribi-auto-post.php:849
+msgid "Each program can have it's own options for sharing posts on your Facebook page"
+msgstr "Chaque programme peut avoir ses propres options de partage d'article sur votre page Facebook"
+
+#: raefghribi-auto-post.php:854
+msgid "Facebook Page :"
+msgstr "Pages Facebook :"
+
+#: raefghribi-auto-post.php:854
+msgid "Choose the FB page you want to use for this program"
+msgstr "Choisissez la catégorie des articles pour ce programme"
+
+#: raefghribi-auto-post.php:857
+msgid "Latest/Random :"
+msgstr "Dérnier/Alléatoire :"
+
+#: raefghribi-auto-post.php:857
+msgid "Share your posts randomisly or only the latest posts for this program"
+msgstr "Partagez vos articles de manière aléatoire ou uniquement les nouveaux articles pour ce programme"
+
+#: raefghribi-auto-post.php:862
+msgid "Time schedule : "
+msgstr "Horaire : "
+
+#: raefghribi-auto-post.php:862
+msgid "Choose the time you want to use to share random posts"
+msgstr "Choisissez l'horaire que vous souhaitez utiliser pour partager des articles aléatoires"
+
+#: raefghribi-auto-post.php:865
+msgid "Category : "
+msgstr "Catégorie : "
+
+#: raefghribi-auto-post.php:865
+msgid "Choose the category posts for this program"
+msgstr "Coisissez votre catégorie pour ce programme"
+
+#: raefghribi-auto-post.php:867
+msgid "All"
+msgstr "Tout"
+
+#: raefghribi-auto-post.php:882
+msgid "Number of posts : "
+msgstr "Nombre d'articles : "
+
+#: raefghribi-auto-post.php:882
+msgid "Choose number of posts to share for this program"
+msgstr "Choisissez le nombre d'article à partager pour ce programme"
+
+#: raefghribi-auto-post.php:889
+msgid "Auto post programs list"
+msgstr "Liste des programmes de publication automatique"
+
+#: raefghribi-auto-post.php:890
+msgid "This is the list of your auto-sharing programs posts in your Facebook pages :"
+msgstr "Liste de vos programmes de partage automatique sur vos pages Facebook:"
+
+#: raefghribi-auto-post.php:896
+msgid "Facebook pages"
+msgstr "Pages Facebook"
+
+#: raefghribi-auto-post.php:898
+msgid "Liste pages from your Facebook account : "
+msgstr "Liste des pages Facebook à partir de votre compte : "
+
+#: raefghribi-auto-post.php:900
+msgid "The ID of the application has changed, you must regenerate the list of Facebook pages"
+msgstr "L'ID de l'application a changé, vous devez régénérer la liste despages Facebook"
+
+#: raefghribi-auto-post.php:910
+msgid "Facebook App Settings"
+msgstr "Paramètres de l'application Facebook"
+
+#: raefghribi-auto-post.php:911
+msgid "Enter your Facebook application settings :"
+msgstr "Entrez les paramètres de votre application Facebook:"
+
+#: raefghribi-auto-post.php:924
+msgid "Do you realy want to clear the logs?"
+msgstr "Voulez-vous vraiment effacer les journaux?"
+
+#: raefghribi-auto-post.php:924
+msgid "Clear logs"
+msgstr "Effacer les journaux"
+
+#: raefghribi-auto-post.php:930
+msgid "Time Zone setting"
+msgstr "Réglage du fuseau horaire"
+
+#: raefghribi-auto-post.php:931
+msgid "Enter your time zone here :"
+msgstr "Entrez votre fuseau horaire ici:"
